@@ -19,6 +19,6 @@ In order to match the [_CDPR Fan Content Guidelines_](https://www.cdprojektred.c
 > _This is an unofficial fan work and is not approved/endorsed by CD PROJEKT RED._
 
 [![CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)][cc-by-nc-sa]
-[![REDmodding](https://github.com/nullfrctl/Realcolorr/assets/99456326/651333fa-24df-4c29-b9b5-9ceab4d59867)](https://redmodding.org/)
+[![REDmodding](https://user-images.githubusercontent.com/99456326/253461896-09a7b108-4f51-40ed-82c7-a319c0fb29ee.png)](https://redmodding.org/)
 
 [^1]: This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
